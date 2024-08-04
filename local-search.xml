@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>8.5计划</title>
+    <link href="/2024/08/05/8-5%E8%AE%A1%E5%88%92/"/>
+    <url>/2024/08/05/8-5%E8%AE%A1%E5%88%92/</url>
+    
+    <content type="html"><![CDATA[<p>1.计算机网络*1h</p><p>2.计算机组成原理*1h</p><p>3.数学建模*2h</p><p>4.MySQL*1h</p><p>5.安卓开发*1h</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>暑期计划</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>数学建模</title>
+    <link href="/2024/07/27/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    <url>/2024/07/27/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-注释"><a href="#1-注释" class="headerlink" title="1.注释"></a>1.注释</h3><p> 用 <code>%</code></p><h3 id="2-向量表示"><a href="#2-向量表示" class="headerlink" title="2.向量表示"></a>2.向量表示</h3><p>行向量：a &#x3D; [1,2,3]    &#x2F;&#x2F;  中间可以逗号或者空格分隔</p><p>列向量：a &#x3D; [1;2;3]   </p><h3 id="3-输出"><a href="#3-输出" class="headerlink" title="3.输出"></a>3.输出</h3><p><code>disp(a)</code></p><p><code>dispa([&#39;a的取值为&#39;a])</code></p><h3 id="4-输入"><a href="#4-输入" class="headerlink" title="4.输入"></a>4.输入</h3><h3 id="5-字符串"><a href="#5-字符串" class="headerlink" title="5.字符串"></a>5.字符串</h3><p>1.合并</p><p><code>strcat(&#39;字符串1&#39;,&#39;字符串2&#39;)</code></p><p>2.数字转化为字符串</p><p><code>num2str()</code></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>数学建模</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>暑期计划  </title>
+    <link href="/2024/07/25/%E6%9A%91%E6%9C%9F%E8%AE%A1%E5%88%92/"/>
+    <url>/2024/07/25/%E6%9A%91%E6%9C%9F%E8%AE%A1%E5%88%92/</url>
+    
+    <content type="html"><![CDATA[<h1 id="一天学够8h！！！"><a href="#一天学够8h！！！" class="headerlink" title="一天学够8h！！！"></a>一天学够8h！！！</h1><h5 id="一、数学建模"><a href="#一、数学建模" class="headerlink" title="一、数学建模"></a>一、数学建模</h5><p> 清风视频  2h</p><h5 id="二、技术学习"><a href="#二、技术学习" class="headerlink" title="二、技术学习"></a>二、技术学习</h5><p>1.vue3+js 1h</p><p>2.MySQL  1h</p><p>3.安卓开发  1h</p><h5 id="三、ky准备"><a href="#三、ky准备" class="headerlink" title="三、ky准备"></a>三、ky准备</h5><p>1.计算机网络  1h</p><p>2.计算机组成原理  1h</p><p>3.高数  1h</p><h5 id="四、算法"><a href="#四、算法" class="headerlink" title="四、算法"></a>四、算法</h5><p>每周一次</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>如何优雅地进行Hexo文章编写</title>
+    <link href="/2024/07/14/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E8%BF%9B%E8%A1%8CHexo%E6%96%87%E7%AB%A0%E7%BC%96%E5%86%99/"/>
+    <url>/2024/07/14/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E8%BF%9B%E8%A1%8CHexo%E6%96%87%E7%AB%A0%E7%BC%96%E5%86%99/</url>
+    
+    <content type="html"><![CDATA[<h6 id="1-在你的hexo站点目录下，启动服务-hexo-s-d"><a href="#1-在你的hexo站点目录下，启动服务-hexo-s-d" class="headerlink" title="1.在你的hexo站点目录下，启动服务 hexo s -d"></a>1.在你的hexo站点目录下，启动服务 <code>hexo s -d</code></h6><h6 id="2-打开网址localhost-4000-admin"><a href="#2-打开网址localhost-4000-admin" class="headerlink" title="2.打开网址localhost:4000/admin"></a>2.打开网址<code>localhost:4000/admin</code></h6><h6 id="3-部署到GitHub-hexo-g-d"><a href="#3-部署到GitHub-hexo-g-d" class="headerlink" title="3.部署到GitHub hexo g -d"></a>3.部署到GitHub <code>hexo g -d</code></h6>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="/2024/07/14/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2024/07/14/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="localhost-4000-admin"><a href="#localhost-4000-admin" class="headerlink" title="localhost:4000&#x2F;admin"></a>localhost:4000&#x2F;admin</h1><h5 id="貌似可以实时更新"><a href="#貌似可以实时更新" class="headerlink" title="貌似可以实时更新"></a>貌似可以实时更新</h5>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
